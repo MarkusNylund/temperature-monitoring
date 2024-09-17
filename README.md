@@ -36,6 +36,11 @@ Example of physical connection can be found here, also in depth configuration st
 
 * http://www.d3noob.org/2015/02/raspberry-pi-multiple-temperature.html
 
+## Test and run
+To run in background excecute 
+```
+nohup python sensorconfig.py &
+```
 
 ## Result
 <p align="center">
@@ -45,3 +50,9 @@ Example of physical connection can be found here, also in depth configuration st
 <p align="center">
   <img src="./images/368184151-e4bd06a6-9218-481a-b7ae-445eff599753.png" alt="Raspberry Pi MQTT Temperatures"  width="50%" />
 </p>
+
+
+
+## Other
+
+Highly recommend rpi mqtt monitor  check out at https://github.com/hjelev/rpi-mqtt-monitor
