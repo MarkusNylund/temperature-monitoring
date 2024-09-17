@@ -1,6 +1,9 @@
 # Temperature Monitoring
 Python project with multiple DS18B20 sensors. Config and reporting over MQTT to Home Assistant
 
+<p align="center">
+  <img src="./images/368183851-98ac1eb9-0d5f-4e79-af5b-dc056d884dca.png" alt="Raspberry Pi MQTT Temperatures"  width="50%" />
+</p>
 
 ## Quick configuration
 One-wire configuration needs to be enabledcd, run and enable in settings
@@ -33,9 +36,12 @@ Example of physical connection can be found here, also in depth configuration st
 
 * http://www.d3noob.org/2015/02/raspberry-pi-multiple-temperature.html
 
-![image](https://hackster.imgix.net/uploads/attachments/1479988/ds18b20_9_sensor_bb_h4la0fG72z.jpg)
 
-![image](https://github.com/user-attachments/assets/ca20eaf3-342f-4385-acd8-c1ddcadda2b7)
-![image](https://github.com/user-attachments/assets/98ac1eb9-0d5f-4e79-af5b-dc056d884dca)
+## Result
+<p align="center">
+  <img src="images/368183546-ca20eaf3-342f-4385-acd8-c1ddcadda2b7.png" alt="Raspberry Pi MQTT Temperatures"  width="50%" />
+</p>
 
-![image](https://github.com/user-attachments/assets/e4bd06a6-9218-481a-b7ae-445eff599753)
+<p align="center">
+  <img src="./images/368184151-e4bd06a6-9218-481a-b7ae-445eff599753.png" alt="Raspberry Pi MQTT Temperatures"  width="50%" />
+</p>
