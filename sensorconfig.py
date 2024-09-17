@@ -18,10 +18,10 @@ sensors_name = {sensors[0]: "Sea water",
 
 
 #ha broker config
-Broker = '100.77.110.64' #'192.168.0.150'
+Broker =  '192.168.0.1' #change
 auth = {
-    'username': 'usr',
-    'password': 'pw',
+    'username': 'usr', #change
+    'password': 'pw', #change
 }
 
 #mqtt topic for updatd values
